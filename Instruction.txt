@@ -1,0 +1,3 @@
+At First extract all .rar file then go to Assets and run area001.unity file.
+Now you can see the project if you have unity installed in the device you are runing in.
+ 
